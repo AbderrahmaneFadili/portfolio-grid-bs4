@@ -1,0 +1,9 @@
+.bg-black {
+  background: #000;
+  color: #fff;
+}
+
+.menu div:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
